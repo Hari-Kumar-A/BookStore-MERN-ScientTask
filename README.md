@@ -62,7 +62,12 @@ The frontend should be running at http://localhost:5173/
 [Mongoose](https://mongoosejs.com/docs/)\
 [Express Js](https://expressjs.com/)  \
 [NotiStack](https://notistack.com/api-reference) \
-[Tailwind CSS](https://tailwindcss.com/) 
+[Tailwind CSS](https://tailwindcss.com/) \
+[React Icons](https://react-icons.github.io/react-icons/) \
+[React Router Dom](https://www.npmjs.com/package/react-router-dom) \
+[Axios](https://www.npmjs.com/package/axios) 
+
+
 
   ---
 ## ScreenShots 
